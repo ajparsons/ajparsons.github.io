@@ -2,8 +2,8 @@
  <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-
-  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+<meta name=viewport content="width=device-width, initial-scale=1">
+ <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
 
   <style type="text/css">
 a { color:#001760; text-decoration:none;}
@@ -22,9 +22,14 @@ ul
 
 .main {
 text-align: center;
-font-size:20px;
+font-size:20pt;
 }
 
+
+@media (max-width:767px) {
+img { width: 320px; height: 240px; }
+p {margin-top:5px}
+}
 
   </style>
   <title>alexparsons.co.uk</title>
@@ -48,7 +53,7 @@ function random_imglink(){
 var ry=Math.floor(Math.random()*7)
 if (ry==0)
 ry=1
-document.write('<img src="http://alexparsons.co.uk/theme/images/'+ry+'.jpg" border=0>')
+document.write('<img class="headline" src="http://alexparsons.co.uk/theme/images/'+ry+'.jpg" border=0>')
 }
 random_imglink()
 //-->

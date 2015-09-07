@@ -83,10 +83,6 @@ body {
     color: #444;
 }
 
-header, #wrapper {
-    width: 910px;
-    margin: auto;
-}
 
 a {
     text-decoration: none;
@@ -164,6 +160,27 @@ margin-top: 5px;
 
 .content {
 margin: 0 20px 10px 10px;
+}
+
+.mobile_hide{
+    display:inline
+}
+
+.mobile_show{
+    display:none
+}
+
+@media (max-width:960px) {
+.mobile_show{ display:inline }
+}
+
+@media (max-width:960px) {
+.header_box{ text-align:center;width:100% }
+}
+
+
+@media (max-width:960px) {
+.mobile_hide{ display:none }
 }
 
 .post {

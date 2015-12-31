@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>alexparsons.co.uk</title><link href="http://alexparsons.co.uk/" rel="alternate"></link><link href="http://alexparsons.co.uk/feeds/all.atom.xml" rel="self"></link><id>http://alexparsons.co.uk/</id><updated>2015-12-31T13:53:00+00:00</updated><entry><title>The Handmaid's Tale and Data Collection</title><link href="http://alexparsons.co.uk/data-collection/" rel="alternate"></link><updated>2015-12-31T13:53:00+00:00</updated><author><name>Alex Parsons</name></author><id>tag:alexparsons.co.uk,2015-12-31:data-collection/</id><summary type="html">&lt;p&gt;Finally got round to reading The Handmaid's Tale this Christmas (god it's good, like one of those songs that you know from the first note you should be paying attention). This bit especially struck me as being very relevant to the next few decades:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>alexparsons.co.uk</title><link href="http://alexparsons.co.uk/" rel="alternate"></link><link href="http://alexparsons.co.uk/feeds/all.atom.xml" rel="self"></link><id>http://alexparsons.co.uk/</id><updated>2015-12-31T13:53:00+00:00</updated><entry><title>The Handmaid's Tale and Data Collection</title><link href="http://alexparsons.co.uk/data-collection/" rel="alternate"></link><updated>2015-12-31T13:53:00+00:00</updated><author><name>Alex Parsons</name></author><id>tag:alexparsons.co.uk,2015-12-31:data-collection/</id><summary type="html">&lt;p&gt;Finally got round to reading The Handmaid's Tale this Christmas. This bit especially struck me as being very relevant to the next few decades:&lt;/p&gt;
 &lt;blockquote&gt;
-You had to take those pieces of paper with you when you went shopping, though by the time I was nine or ten most people used plastic cards . Not for the groceries though, that came later. It seems so primitive, totemistic even, like cowrie shells. I must have used that kind of money myself, a little, before everything went on the Compubank.
-I guess that’s how they were able to do it, in the way they did, all at once, without anyone knowing beforehand. If there had still been portable money, it would have been more difficult.
-[...]
-Tried getting anything on your Compucard today?
-Yes, I said. I told her about that too.
-They've frozen them, she said. Mine too. The collective's too. Any account with an F on it instead of an M. All they needed to do is push a few buttons. We're cut off.&lt;/blockquote&gt;
+&lt;p&gt;You had to take those pieces of paper with you when you went shopping, though by the time I was nine or ten most people used plastic cards . Not for the groceries though, that came later. It seems so primitive, totemistic even, like cowrie shells. I must have used that kind of money myself, a little, before everything went on the Compubank.&lt;/p&gt;
+&lt;p&gt;I guess that’s how they were able to do it, in the way they did, all at once, without anyone knowing beforehand. If there had still been portable money, it would have been more difficult.
+[...]&lt;/p&gt;
+&lt;p&gt;Tried getting anything on your Compucard today?&lt;/p&gt;
+&lt;p&gt;Yes, I said. I told her about that too.&lt;/p&gt;
+&lt;p&gt;They've frozen them, she said. Mine too. The collective's too. Any account with an F on it instead of an M. All they needed to do is push a few buttons. We're cut off.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;One of Atwood's repeated points with her flashbacks and coda is that Gilead isn't an alien thing dropped from the sky. Future oppressive governments won't just be throwbacks, they'll also be logical continuations of us - our society and technology.&lt;/p&gt;
 &lt;p&gt;There's not really a good reason for a bank account to know if you're male or female - it might help &lt;em&gt;them&lt;/em&gt; make pie charts and market to you better, but it doesn't actually come into the service they're providing. It's harmless until it isn't.&lt;/p&gt;
-&lt;p&gt;Maciej Cegłowski makes this point in a (talk)[&lt;a class="reference external" href="http://idlewords.com/talks/haunted_by_data.htm"&gt;http://idlewords.com/talks/haunted_by_data.htm&lt;/a&gt;] where he argues that we should treat data as being a little more toxic.&lt;/p&gt;
+&lt;p&gt;Maciej Cegłowski makes this point in a &lt;a class="reference external" href="http://idlewords.com/talks/haunted_by_data.htm"&gt;talk&lt;/a&gt; where he argues that we should treat data as being a little more toxic.&lt;/p&gt;
 &lt;blockquote&gt;
-Eric Schmidt of Google suggests that one way to solve the problem is to never do anything that you don’t want made public.
-But sometimes there's no way to know ahead of time what is going to be bad.
-In the forties, the Soviet Union was our ally. We were fighting Hitler together! It was fashionable in Hollywood to hang out with Communists and progressives and other lefty types.
-Ten years later, any hint of Communist ties could put you on a blacklist and end your career. Some people went to jail for it. Imagine if we had had Instagram back then.
-Closer to our time, consider the hypothetical case of a gay blogger in Moscow who opens a LiveJournal account in 2004, to keep a private diary.
-In 2007 LiveJournal is sold to a Russian company, and a few years later — to everyone's surpise — homophobia is elevated to state ideology.
-Now that blogger has to live with a dark pit of fear in his stomach.&lt;/blockquote&gt;
-&lt;p&gt;If they take control of your country, your company, your data - how easy have you made it for them? What do you store that does you almost no good, but could do others massive harm? UPDATE dbo.customers SET status = &amp;quot;Invalid&amp;quot; WHERE ?&lt;/p&gt;
+&lt;p&gt;Eric Schmidt of Google suggests that one way to solve the problem is to never do anything that you don’t want made public.&lt;/p&gt;
+&lt;p&gt;But sometimes there's no way to know ahead of time what is going to be bad.&lt;/p&gt;
+&lt;p&gt;In the forties, the Soviet Union was our ally. We were fighting Hitler together! It was fashionable in Hollywood to hang out with Communists and progressives and other lefty types.&lt;/p&gt;
+&lt;p&gt;Ten years later, any hint of Communist ties could put you on a blacklist and end your career. Some people went to jail for it. Imagine if we had had Instagram back then.&lt;/p&gt;
+&lt;p&gt;Closer to our time, consider the hypothetical case of a gay blogger in Moscow who opens a LiveJournal account in 2004, to keep a private diary.&lt;/p&gt;
+&lt;p&gt;In 2007 LiveJournal is sold to a Russian company, and a few years later — to everyone's surpise — homophobia is elevated to state ideology.&lt;/p&gt;
+&lt;p&gt;Now that blogger has to live with a dark pit of fear in his stomach.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If they take control of your country, your company, your data - how easy have you made it for them? What do you store that does you almost no good, but could do others massive harm?&lt;/p&gt;
+&lt;p&gt;UPDATE dbo.customers SET status = &amp;quot;Invalid&amp;quot; WHERE ?&lt;/p&gt;
 </summary></entry><entry><title>Housing Notes: Part 1 - Why There Isn't a Housing Crisis</title><link href="http://alexparsons.co.uk/housing-notes-part-1-why-there-isnt-a-housing-crisis/" rel="alternate"></link><updated>2015-08-31T16:09:00+01:00</updated><author><name>Alex Parsons</name></author><id>tag:alexparsons.co.uk,2015-08-31:housing-notes-part-1-why-there-isnt-a-housing-crisis/</id><summary type="html">&lt;p&gt;If there's a housing crisis, why aren't we acting like it? Why is the
 green belt &lt;a class="reference external" href="http://www.citymetric.com/politics/london-mayoral-race-why-wont-labours-candidates-get-serious-about-housing-1353"&gt;a sacred
 cow&lt;/a&gt;
